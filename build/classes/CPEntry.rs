@@ -1,0 +1,17 @@
+ConstantInvokeDynamic
+ConstantMethodHandle
+ConstantFloat
+ConstantString
+InvalidTagException
+ConstantDouble
+ConstantInteger
+ConstantMethodRef
+ConstantLong
+ConstantNameAndType
+CPEntry
+ConstantMethodType
+ConstantUtf8
+ConstantInterfaceMethodRef
+ConstantFieldRef
+ConstantRef
+ConstantClass
